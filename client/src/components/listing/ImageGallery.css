@@ -1,0 +1,12 @@
+.carousel-image-wrapper {
+    width: 68.75vw;
+    height: 100%;
+    overflow: hidden; /* Ensure any overflow is hidden */
+  }
+  
+  .carousel-image-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Forcefully fit the image to cover the entire container */
+  }
+  
