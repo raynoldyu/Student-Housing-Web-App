@@ -1,2 +1,2 @@
-export const googleAPIKey = 'AIzaSyDz-ljSax3g_tnY8hgWxfMPpkeL4KXs7tk';
+export const googleAPIKey = process.env.REACT_APP_GOOGLE_API_KEY;
 export const placeType = 'cafe';
